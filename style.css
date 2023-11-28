@@ -35,7 +35,7 @@ html{
 .header {
   width: 100%;
   height: 100vh;
-  background-image: url(/dinara1/imgs/header.jpg);
+  background-image: url(/imgs/header.jpg);
   background-size: 100% 100%;
 
 
@@ -192,7 +192,7 @@ img {
 .contact{
   width: 100%;
 height: 100vh;
-background-image: url(/dinara1/imgs/footer.jpg);
+background-image: url(/imgs/footer.jpg);
 }
 .contact__overlay{
   padding: 4rem 0rem;
